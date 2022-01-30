@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/okan-dogan/](https://www.linkedin.com/in/okan-dogan/)
 
-- ⚡ Fun fact **The First Programmer Was A Daughter Of Mad Poet**
+- ⚡ Fun fact **In LOTR, Legolas is famous for his white-blond hair but it was never indicated in the books that he was blond**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
