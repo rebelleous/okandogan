@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/okan-dogan/](https://www.linkedin.com/in/okan-dogan/)
 
-- ⚡ Fun fact **In LOTR, Legolas is famous for his white-blond hair but it was never indicated in the books that he was blond**
+- ⚡ Fun fact **The Beatles tried to make their own LOTR movie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
