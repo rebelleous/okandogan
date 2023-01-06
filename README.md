@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Software Engineer / Technical Consultant**
 
-- 🌱 I’m currently learning **GO and Kotlin**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me anything about **CS Fundamentals, Python, C# etc. Remember, knowledge increases with sharing :)**
 
