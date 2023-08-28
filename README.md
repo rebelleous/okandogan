@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Okan DOĞAN</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
 
-- 🔭 I’m currently working as **Software Engineer / Technical Consultant**
+- 🔭 I’m not working right now, but open to opportunities as  **Software Engineer / Back-End Developer (Python) / Data Analyst / Data Scientist (ML & AI) **
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **GO Lang**
 
-- 💬 Ask me anything about **CS Fundamentals, Python, C# etc. Remember, knowledge increases with sharing :)**
+- 💬 Ask me anything about **CS Fundamentals, Python, Data Analysis etc. Remember, knowledge increases with sharing :)**
 
 - 📫 How to reach me **okandogan1999@gmail.com**
 
