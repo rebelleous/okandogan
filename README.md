@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Okan DOĞAN</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
 
-- 🔭 I’m not working right now, but open to opportunities as  **Software Engineer / Back-End Developer (Python) / Data Analyst / Data Scientist (ML & AI) **
+- 🔭 I’m not working right now, but open to opportunities as  **Software Engineer / Back-End Developer (Python)** **/ Data Analyst / Data Scientist (ML & AI)**
 
 - 🌱 I’m currently learning **GO Lang**
 
